@@ -1,1 +1,1 @@
-i promise i can use sumifs, countifs, and vlookup
+i promise i can use sumifs, countifs, vlookup, and pivot tables
